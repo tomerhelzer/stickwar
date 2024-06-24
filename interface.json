@@ -1,0 +1,60 @@
+{
+  "menu": {
+    "title": "Stick War",
+    "start": "Start Game",
+    "options": "Options",
+    "exit": "Exit"
+  },
+  "options": {
+    "title": "Options",
+    "audio": "Audio",
+    "controls": "Controls",
+    "back_to_menu": "Back to Main Menu"
+  },
+  "audio_settings": {
+    "title": "Audio Settings",
+    "music_volume": "Music Volume",
+    "effects_volume": "Effects Volume",
+    "back_to_options": "Back to Options"
+  },
+  "controls_settings": {
+    "title": "Controls Settings",
+    "move_left": "Move Left",
+    "move_right": "Move Right",
+    "jump": "Jump",
+    "attack": "Attack",
+    "defend": "Defend",
+    "special_ability": "Special Ability",
+    "back_to_options": "Back to Options"
+  },
+  "game_hud": {
+    "health": "Health",
+    "score": "Score",
+    "time": "Time",
+    "level": "Level"
+  },
+  "pause_menu": {
+    "title": "Paused",
+    "resume": "Resume Game",
+    "restart": "Restart Level",
+    "quit": "Quit to Main Menu"
+  },
+  "end_level": {
+    "congratulations": "Congratulations!",
+    "completed": "Level Completed",
+    "score": "Your Score",
+    "next_level": "Next Level",
+    "quit": "Quit to Main Menu"
+  },
+  "game_over": {
+    "title": "Game Over",
+    "retry": "Retry",
+    "quit": "Quit to Main Menu"
+  },
+  "misc": {
+    "yes": "Yes",
+    "no": "No",
+    "ok": "OK",
+    "cancel": "Cancel"
+  }
+}
